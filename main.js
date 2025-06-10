@@ -98,7 +98,7 @@ const imagineCommand = require('./commands/imagine');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029VbBD26f7IUYVd0GOD60O";
+global.channelLink = "https://whatsapp.com/channel/0029VbBD26f7IUYVd0GOD600";
 global.ytch = "Mr Unique Hacker";
 
 // Add this near the top of main.js with other global configurations
